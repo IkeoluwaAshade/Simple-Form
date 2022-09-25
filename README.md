@@ -7,30 +7,34 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Table Of Content
 
 - [Acknowledgement](#Acknowledgement)
-- [How the Temperature Control App Works](#How-it-Works)
+- [How the Simple Forms Works](#How-it-Works)
 - [Learning OutCome](#Learning-OutCome)
 - [Resources](#Resources)
 - [Author](#Author)
 
 ### `Acknowledgement`
 
-The insight which i used in making this project was gotten from Chris Blakely in open of his Youtube tutorial.\
-Open [Youtube](https://youtu.be/V3bhcxpoxQU) to view it in your browser.
+The insight which i used in making this project was gotten from Chris Blakely in one of his Youtube tutorial.\
+Open [Youtube](https://youtu.be/8hU0I8rY4u4) to view it in your browser.
 
-### `How the Temperature App Works`
-So basically this Temperature App has a range of Temperature between -5°C to 50°C. Once the temperature is below 15°C the color becomes skyBlue which means the temperature is cold. And when the temperature reaches 15°C the color changes to OrangeRed which symbolizes Hotness
+### `How the Form Works`
+The form was built using React. It allows users to input their first name, middle name, surname, email, age and gender. Post-registration, an error message is displayed for each field if validation fails else a success message is shown.
+
+Validation Checks includes
+- Email must contain @ Symbol
+- Age must be in Numbers
 
 ### `Learning Outcome`
 
-The Project Taught me more on Hooks, Component and useState().
+The Project Taught me more on React-hooks, Component and useState().
 
 ### `Challenges`
-I had issues while styling the css the most prefered way, which i am definitely gonna improve-on on my subsquent projects
+The data typed in the box has no record yet. Once submitted it basically refreshes.. But the Success message is an indicator that our form is working and more improvement can kickstart from there.
 
 ### `Resources`
 
 - [W3Schools](https://www.w3schools.com).
-- [Youtube](https://youtu.be/V3bhcxpoxQU).
+- [Youtube](https://youtu.be/8hU0I8rY4u4).
 
 
 
