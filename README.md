@@ -1,5 +1,7 @@
 # Simple Form
 
+![image](https://fabulous-entremet-fd89b3.netlify.app/)
+
 ## [Live Site](https://fabulous-entremet-fd89b3.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
