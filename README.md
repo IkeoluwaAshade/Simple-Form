@@ -31,7 +31,8 @@ Validation Checks includes
 The Project Taught me more on React-hooks, Component and useState().
 
 ### `Challenges`
-The data typed in the box has no record yet. Once submitted it basically refreshes.. But the Success  and error messages is an indicator that our form is working and more improvement can kickstart from there.
+- The data typed in the box has no record yet. Once submitted it basically refreshes.. But the Success  and error messages is an indicator that our form is working and more improvement can kickstart from there.
+- It isn't mobile responsive yet. Will Work on making it mobile responsive subsquent time
 
 ### `Resources`
 
